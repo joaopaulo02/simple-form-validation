@@ -1,4 +1,4 @@
-# <h1>simple-form-validation</h1>
+# <h1>Simple Form Validation</h1>
 
 This is a simple form validation
 
